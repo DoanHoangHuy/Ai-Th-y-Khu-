@@ -1,0 +1,12 @@
+# Bỏ qua môi trường ảo
+venv/
+__pycache__/
+
+# Bỏ qua toàn bộ ảnh và nhãn
+dataset/
+
+# Bỏ qua thư mục kết quả huấn luyện
+runs/
+
+# Bỏ qua toàn bộ các file "Bộ não" của AI
+*.pt

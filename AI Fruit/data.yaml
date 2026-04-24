@@ -1,0 +1,12 @@
+# 1. Đường dẫn tuyệt đối tới thư mục dataset trên máy của bạn
+path: C:/Users/oopsh/OneDrive/Máy tính/AI Fruit/dataset
+
+# 2. Vị trí thư mục chứa ảnh
+train: images
+val: images
+
+# 3. nc (number of classes): Số lượng loại trái cây bạn đang làm
+nc: 1
+
+# 4. names: Tên của các loại trái cây (Phải ghi y hệt như chữ bạn đã gõ trên MakeSense)
+names: ['xoai']
